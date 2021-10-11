@@ -8,5 +8,6 @@
         <page name='FindMergingNode'/>
         <page name='CyclicRotation'/>
         <page name='ReversingStringUsingStack'/>
+        <page name='BalancedBrackets'/>
     </pages>
 </playground>
