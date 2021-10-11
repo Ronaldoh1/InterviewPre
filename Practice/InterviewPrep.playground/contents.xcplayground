@@ -12,5 +12,6 @@
         <page name='CheckIfStringContainsUniqueCharacters'/>
         <page name='StringPermutation'/>
         <page name='URL-ify'/>
+        <page name='OneAwayStrings'/>
     </pages>
 </playground>
