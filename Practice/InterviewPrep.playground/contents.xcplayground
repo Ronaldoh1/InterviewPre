@@ -7,5 +7,6 @@
         <page name='LengthOfLinkedList'/>
         <page name='FindMergingNode'/>
         <page name='CyclicRotation'/>
+        <page name='ReversingStringUsingStack'/>
     </pages>
 </playground>
