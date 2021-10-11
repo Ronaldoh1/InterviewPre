@@ -10,5 +10,6 @@
         <page name='ReversingStringUsingStack'/>
         <page name='BalancedBrackets'/>
         <page name='CheckIfStringContainsUniqueCharacters'/>
+        <page name='StringPermutation'/>
     </pages>
 </playground>
