@@ -11,5 +11,6 @@
         <page name='BalancedBrackets'/>
         <page name='CheckIfStringContainsUniqueCharacters'/>
         <page name='StringPermutation'/>
+        <page name='URL-ify'/>
     </pages>
 </playground>
