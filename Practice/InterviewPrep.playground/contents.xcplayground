@@ -4,5 +4,8 @@
         <page name='Rotate Arrays'/>
         <page name='DashPhoneNumber'/>
         <page name='Contact'/>
+        <page name='LengthOfLinkedList'/>
+        <page name='FindMergingNode'/>
+        <page name='CyclicRotation'/>
     </pages>
 </playground>
