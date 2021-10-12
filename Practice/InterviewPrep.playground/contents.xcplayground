@@ -15,5 +15,6 @@
         <page name='OneAwayStrings'/>
         <page name='Compressor'/>
         <page name='RemoveDuplicates'/>
+        <page name='MinStackUsingArrays'/>
     </pages>
 </playground>
