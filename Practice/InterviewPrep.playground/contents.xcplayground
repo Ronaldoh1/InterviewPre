@@ -13,5 +13,7 @@
         <page name='StringPermutation'/>
         <page name='URL-ify'/>
         <page name='OneAwayStrings'/>
+        <page name='Compressor'/>
+        <page name='RemoveDuplicates'/>
     </pages>
 </playground>
