@@ -20,5 +20,6 @@
         <page name='GroupSimilarTitles'/>
         <page name='FetchTopMovies'/>
         <page name='FindMedianAge'/>
+        <page name='PopularityAnalysis'/>
     </pages>
 </playground>
