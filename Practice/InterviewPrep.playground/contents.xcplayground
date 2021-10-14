@@ -21,5 +21,6 @@
         <page name='FetchTopMovies'/>
         <page name='FindMedianAge'/>
         <page name='PopularityAnalysis'/>
+        <page name='MostRecentlyWatchedTitles'/>
     </pages>
 </playground>
