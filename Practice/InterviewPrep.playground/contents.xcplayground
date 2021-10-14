@@ -16,5 +16,7 @@
         <page name='Compressor'/>
         <page name='RemoveDuplicates'/>
         <page name='MinStackUsingArrays'/>
+        <page name='MinStackUsingLinkedList'/>
+        <page name='GroupSimilarTitles'/>
     </pages>
 </playground>
