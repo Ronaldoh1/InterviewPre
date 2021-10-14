@@ -19,5 +19,6 @@
         <page name='MinStackUsingLinkedList'/>
         <page name='GroupSimilarTitles'/>
         <page name='FetchTopMovies'/>
+        <page name='FindMedianAge'/>
     </pages>
 </playground>
