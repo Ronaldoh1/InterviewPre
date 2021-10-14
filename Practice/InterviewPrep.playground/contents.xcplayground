@@ -18,5 +18,6 @@
         <page name='MinStackUsingArrays'/>
         <page name='MinStackUsingLinkedList'/>
         <page name='GroupSimilarTitles'/>
+        <page name='FetchTopMovies'/>
     </pages>
 </playground>
