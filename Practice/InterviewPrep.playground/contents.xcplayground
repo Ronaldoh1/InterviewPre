@@ -28,5 +28,6 @@
         <page name='StringContainSameCharacters'/>
         <page name='StringContainsAnotherStrings'/>
         <page name='CountCharacters'/>
+        <page name='RemoveDuplicateCharacters'/>
     </pages>
 </playground>
