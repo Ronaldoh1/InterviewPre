@@ -24,5 +24,6 @@
         <page name='MostRecentlyWatchedTitles'/>
         <page name='BrowseRatings'/>
         <page name='AreLettersUnique'/>
+        <page name='IsStringAPalindrome'/>
     </pages>
 </playground>
