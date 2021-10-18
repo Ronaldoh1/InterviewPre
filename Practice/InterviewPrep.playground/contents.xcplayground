@@ -23,5 +23,6 @@
         <page name='PopularityAnalysis'/>
         <page name='MostRecentlyWatchedTitles'/>
         <page name='BrowseRatings'/>
+        <page name='AreLettersUnique'/>
     </pages>
 </playground>
