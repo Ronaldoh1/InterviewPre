@@ -22,5 +22,6 @@
         <page name='FindMedianAge'/>
         <page name='PopularityAnalysis'/>
         <page name='MostRecentlyWatchedTitles'/>
+        <page name='BrowseRatings'/>
     </pages>
 </playground>
