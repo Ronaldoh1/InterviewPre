@@ -27,5 +27,6 @@
         <page name='IsStringAPalindrome'/>
         <page name='StringContainSameCharacters'/>
         <page name='StringContainsAnotherStrings'/>
+        <page name='CountCharacters'/>
     </pages>
 </playground>
