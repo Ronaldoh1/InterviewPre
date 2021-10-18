@@ -29,5 +29,6 @@
         <page name='StringContainsAnotherStrings'/>
         <page name='CountCharacters'/>
         <page name='RemoveDuplicateCharacters'/>
+        <page name='RemoveWhiteSpaces'/>
     </pages>
 </playground>
