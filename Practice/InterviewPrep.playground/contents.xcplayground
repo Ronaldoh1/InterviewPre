@@ -25,5 +25,6 @@
         <page name='BrowseRatings'/>
         <page name='AreLettersUnique'/>
         <page name='IsStringAPalindrome'/>
+        <page name='StringContainSameCharacters'/>
     </pages>
 </playground>
