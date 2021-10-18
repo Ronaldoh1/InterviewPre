@@ -26,5 +26,6 @@
         <page name='AreLettersUnique'/>
         <page name='IsStringAPalindrome'/>
         <page name='StringContainSameCharacters'/>
+        <page name='StringContainsAnotherStrings'/>
     </pages>
 </playground>
